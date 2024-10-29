@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title> Title goes here </title>
+		<meta charset="utf-8">
+	</head>
+
+	<body>
+	Webpage contents go here
+	</body>
+
+</html>
+	
