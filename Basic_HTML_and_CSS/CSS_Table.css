@@ -1,0 +1,18 @@
+table{
+    border: 3px solid #28317d;
+}
+
+td:hover{
+    background-color: cornsilk;
+    color: darkgreen;
+}
+
+tr, th {
+    background-color: black;
+    color: #47b5b1;
+}
+
+tr, td {
+    background-color: darkgreen;
+    color: cornsilk;
+}
