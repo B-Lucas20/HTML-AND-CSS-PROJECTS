@@ -419,20 +419,22 @@ input[type="submit"]:hover{
 }
 
 button[type="button"]{
-    background-color: #fff;
-    border: 3px solid rgb(0, 80, 67);
+    background-color:rgb(1, 128, 106);
+    border: 3px solid rgb(1, 128, 106);
     border-radius: 20px;
     font-family: "Josefin Slab", serif; /*Font from fonts.google.com*/
     font-weight: bold;
     font-size: 22px;
     padding: 11px 17px;
-    color: rgb(1, 128, 106);
+    color: white;
     cursor: pointer;
+    transition: 0.3s ease-out;
 }
 
 button[type="button"]:hover{
     background-color: rgb(247, 177, 188);
     color: white;
+    transition: 0.3s ease-in;
 }
 
 #about-button{
