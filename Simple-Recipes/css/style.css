@@ -393,7 +393,7 @@ textarea:focus{
     outline: none;
 }
 
-input[type="submit"]{
+input[type="submit"], button[type="button"]{
     background-color: rgb(1, 128, 106);
     border: none;
     border-radius: 35px;
@@ -416,19 +416,6 @@ input[type="submit"]:hover{
 .about-text{
     font-size: 25px;
     text-align: justify;
-}
-
-button[type="button"]{
-    background-color:rgb(1, 128, 106);
-    border: 3px solid rgb(1, 128, 106);
-    border-radius: 20px;
-    font-family: "Josefin Slab", serif; /*Font from fonts.google.com*/
-    font-weight: bold;
-    font-size: 22px;
-    padding: 11px 17px;
-    color: white;
-    cursor: pointer;
-    transition: 0.3s ease-out;
 }
 
 button[type="button"]:hover{
