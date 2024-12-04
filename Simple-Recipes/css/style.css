@@ -410,3 +410,33 @@ input[type="submit"]{
 input[type="submit"]:hover{
     background-color: rgb(247, 177, 188);
 }
+
+/*ABOUT*/
+
+.about-text{
+    font-size: 25px;
+    text-align: justify;
+}
+
+button[type="button"]{
+    background-color: #fff;
+    border: 3px solid rgb(0, 80, 67);
+    border-radius: 20px;
+    font-family: "Josefin Slab", serif; /*Font from fonts.google.com*/
+    font-weight: bold;
+    font-size: 22px;
+    padding: 11px 17px;
+    color: rgb(1, 128, 106);
+    cursor: pointer;
+}
+
+button[type="button"]:hover{
+    background-color: rgb(247, 177, 188);
+    color: white;
+}
+
+#about-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
