@@ -437,6 +437,7 @@ button[type="button"]:hover{
     transition: 0.3s ease-in;
 }
 
+/*Centers the button within the div container*/
 #about-button{
     display: flex;
     align-items: center;
