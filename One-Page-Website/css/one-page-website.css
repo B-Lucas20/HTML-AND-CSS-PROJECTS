@@ -1,0 +1,48 @@
+/*Import link for Delius font from fonts.google.com*/
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+/*font-family: "Delius", cursive;*/
+
+/*Import link for Permanent Marker font from fonts.google.com*/
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+/*font-family: "Permanent Marker", cursive;*/
+
+html{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+/*NAVBAR*/
+.nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 9;
+}
+
+ul{
+    display: block;
+    list-style-type: none;
+    align-items: center;
+    background-color: bisque;
+    margin: -10px -10px 0px -10px;
+    border-bottom: 5px solid #6C2111;
+}
+
+a{
+    display: block;
+    font-family: "Permanent Marker", cursive;
+    font-size: 25px;
+    color: darkslategray;
+}
+
+/*CONTACT*/
+
+form{
+    display: table;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+form input{
+    
+}
