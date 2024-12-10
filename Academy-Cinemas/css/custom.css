@@ -281,11 +281,17 @@ footer{
 .footer-text{
     font-family: var(--main-font-family);
     color: var(--accent-text-color);
-    font-size: 30x;
+    font-size: 30px;
 }
 
 /*Specifically styles the footer image from the other images on the page and overrides the img type selector styling*/
 .footer-img{
     width: auto;   
     height: 130px;
+}
+
+.footer-text-socials{
+    font-family: var(--main-font-family);
+    color: var(--main-color);
+    font-size: 20px;
 }
