@@ -293,5 +293,10 @@ footer{
 .footer-text-socials{
     font-family: var(--main-font-family);
     color: var(--main-color);
-    font-size: 20px;
+    font-size: 30px;
+
+}
+
+a:link{
+    stroke: var(--accent-text-color);
 }
