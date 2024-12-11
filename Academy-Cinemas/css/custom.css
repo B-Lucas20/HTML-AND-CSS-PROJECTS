@@ -296,7 +296,3 @@ footer{
     font-size: 30px;
 
 }
-
-a:link{
-    stroke: var(--accent-text-color);
-}
