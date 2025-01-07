@@ -1,5 +1,5 @@
 # **HTML-AND-CSS-PROJECTS**
-This repository is for my HTML and CSS The Tech Academy projects. This is a repository displaying sample websites that I made using HTML and CSS.
+This repository is for my HTML and CSS The Tech Academy projects. This is a repository displaying sample websites that I made while learning about and using HTML and CSS.
 
 ## Projects
 * [The Pet Shop](#the-pet-shop)
@@ -13,6 +13,7 @@ This repository is for my HTML and CSS The Tech Academy projects. This is a repo
 * [Cocktail Website (WiP)](#cocktail-website)
 
 * [Personal Portfolio Website](#personal-portfolio-website)
+
 
 ### The Pet Shop
 My first real experience using CSS. Learned the basics of setting up a navigation bar and footer as well as general formatting.
