@@ -180,6 +180,27 @@ img:hover{
     transform: scale(1.05);
 }
 
+@media screen and (max-width: 576px) {
+    img {
+        height: 100px;
+        margin-top: 150px;
+    }
+
+    .img-brian{
+        height: 100px;
+        margin-top: 150px;
+    }
+
+    .Navbar a{
+        width: 25%; /* This makes each link take up 1/4 of the navbar */
+        font-size: 12px;
+    } 
+
+    .column-1{
+        overflow: auto;
+    }
+}
+
 /****CONTACT FORM****/
 
 input[type=text], textarea {
