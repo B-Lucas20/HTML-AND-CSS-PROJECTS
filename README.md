@@ -1,4 +1,4 @@
-# **HTML-AND-CSS-PROJECTS**
+# **The Tech Academy Projects**
 This repository is for my HTML and CSS The Tech Academy projects. This is a repository displaying sample websites that I made while learning about and using HTML and CSS.
 
 ## Projects
@@ -11,6 +11,8 @@ This repository is for my HTML and CSS The Tech Academy projects. This is a repo
 * [The Fluffy Cat](#the-fluffy-cat) 
 
 * [Cocktail Website (WiP)](#cocktail-website)
+
+* [To Do List](#To-Do-List)
 
 * [Personal Portfolio Website](#personal-portfolio-website)
 
@@ -29,6 +31,9 @@ An experimental website page. As students, we were given a list of CSS challenge
 
 ### Cocktail Website
 A personal sample website revolving around a deep interest of mine. It is a current work in progress.
+
+### To Do list
+An introduction to JavaScript
 
 ### Personal Portfolio Website
 A live website. A personal portfolio website that I will add to and update as the years go by. Learned about purchasing domains, hosting, and FTP
